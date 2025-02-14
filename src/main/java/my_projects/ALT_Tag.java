@@ -30,5 +30,13 @@ public class ALT_Tag {
 			System.out.println("Functionality, UI and API code Updates");
 	}
 	
+
+public void NewUpdate()
+	{
+
+			System.out.println("Home Screen UI Update");
+			System.out.println("Changed the color of the Home Screen and Add logo");
+	}
+
 	
 }
